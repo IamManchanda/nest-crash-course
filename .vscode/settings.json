@@ -24,5 +24,8 @@
     ".vscode/tasks.json": false,
     ".vscode/launch.json": false,
     ".vscode/extensions.json": false
-  }
+  },
+  "cSpell.words": [
+    "Todos"
+  ]
 }
